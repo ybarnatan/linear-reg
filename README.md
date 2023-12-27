@@ -6,7 +6,7 @@ Biological experiment where its analysis required a [simple linear regression](h
 
 📊 Aim
 
-Build a simple lnear regression model, check assumptions and analyze the results of a biological experiment.
+Build a simple lonear regression model, check assumptions and analyze the results of a biological experiment.
 
 💻 Stack
 
