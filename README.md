@@ -1,17 +1,58 @@
-# Simple linear regression analysis
+# 🧬 Simple Linear Regression – Biological Experiment Analysis
 
-✅ Introduction
 
-Biological experiment where its analysis required a [simple linear regression](https://en.wikipedia.org/wiki/Simple_linear_regression) (probably the most basic statistic method and the first students learn about).
+## ✅ Introduction
+This project analyzes a biological experiment where the relationship between two quantitative variables was explored using simple linear regression — one of the most fundamental statistical techniques taught in the early stages of data analysis and biostatistics education.
 
-📊 Aim
+While conceptually simple, this model provides a strong foundation for interpreting biological relationships with clarity and precision.
 
-Build a simple lonear regression model, check assumptions and analyze the results of a biological experiment.
+📄 Full analysis available [here](https://github.com/ybarnatan/linear-reg/blob/main/regresion-lineal-cadmio.md).
 
-💻 Stack
+---
 
-For this project, I used R and R-markdown
+## 📊 Project Aim
 
-📚 Data Source
++ Fit a simple linear regression model to biological data
 
-Biometry II course - Facultad de Ciencias Exactas y Naturales, Unviersidad de Buenos Aires
++ Perform assumption checks (linearity, normality of residuals, homoscedasticity)
+
++ Interpret the regression output in the context of the biological experiment
+
++  Visualize the relationship between predictor and response variables
+
+
+---
+
+
+## 💻 Tech Stack
++ R
+
++ R Markdown
+
++ Libraries: `ggplot2`, `broom`, `performance`, `car`, `equatiomatic`
+
+---
+
+🔍 Key Features
+
++ Clean and reproducible R Markdown workflow
+
++ Diagnostic plots for checking model assumptions
+
++ Model interpretation in biological terms
+
+---
+
+## 📚 Data Source
+
+Data obtained from the Biometry II course Facultad de Ciencias Exactas y Naturales Universidad de Buenos Aires
+
+---
+
+## ✍️ **Author**  
+
+**Yair Barnatan**
+
+[LinkedIn](https://www.linkedin.com/in/yair-barnatan/) | [GitHub](https://github.com/ybarnatan)
+
+📧 Email: ybbarnatan@gmail.com
